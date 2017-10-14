@@ -1,0 +1,15 @@
+{
+    "name": "tab1",
+    "version": "0.1.0",
+    "main": "src/app.js",
+    "private": true,
+    "scripts": {
+        "start": "tabris serve"
+    },
+    "dependencies": {
+        "tabris": "^2.1.1"
+    },
+    "devDependencies": {
+        "eslint": "^4.8.0"
+    }
+}
